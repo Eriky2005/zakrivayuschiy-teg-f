@@ -453,6 +453,7 @@
   height: 39px;
   color: var(--color-button-text);
   mix-blend-mode: difference;
+  flex-shrink: 0;
 }
 
 .modal__button {
